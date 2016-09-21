@@ -1,0 +1,12 @@
+{
+  "name": "idatepicker",
+  "version": "0.1.0",
+  "description": "a simple datepicker",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node init.js"
+  },
+  "author": "wuding129@163.com",
+  "license": "MIT"
+}
